@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">moviesapp</string>
+    <string name="discover_your">Discover Your</string>
+    <string name="favorite_show">Favorite Show</string>
+    <string name="watch_now_or_watch_later">Watch Now or Watch Later</string>
+    <string name="your_can_browse_">your can browse moves and shows by genre, search for specific little, or check out our recommentdation for you</string>
+    <string name="get_started">Get Started</string>
+</resources>
